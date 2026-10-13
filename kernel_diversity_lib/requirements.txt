@@ -1,0 +1,11 @@
+cupy-cuda12x
+rich
+tqdm
+h5py
+Pillow
+transformers
+datasets
+pyarrow
+
+git+https://github.com/S-sirigiri/sigkernel.git#egg=sigkernel
+git+https://github.com/S-sirigiri/KSig.git#egg=KSig

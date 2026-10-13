@@ -1,0 +1,10 @@
+{
+    "config": [
+        "configs/quality/bc_robomimic_image.py",
+        "configs/quality/infonce_robomimic_image.py",
+        "configs/quality/mine_robomimic_image.py",
+        "configs/quality/vip_robomimic_image.py"
+    ],
+    "env": ["lift/mh", "can/mh", "square/mh"],
+    "seed": [1, 2, 3]
+}

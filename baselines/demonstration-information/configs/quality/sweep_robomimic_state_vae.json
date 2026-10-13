@@ -1,0 +1,8 @@
+{
+    "config": [
+        "configs/quality/vae_robomimic_state.py"
+    ],
+    "env": ["lift/mh", "can/mh", "square/mh"],
+    "type": ["s", "a"],
+    "seed": [1, 2, 3]
+}

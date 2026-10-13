@@ -1,0 +1,10 @@
+{
+    "config": [
+        "configs/quality/bc_droid.py",
+        "configs/quality/infonce_droid.py",
+        "configs/quality/mine_droid.py",
+        "configs/quality/vip_droid.py"
+    ],
+    "env": ["pen_in_cup", "rack"],
+    "seed": [1, 2, 3]
+}

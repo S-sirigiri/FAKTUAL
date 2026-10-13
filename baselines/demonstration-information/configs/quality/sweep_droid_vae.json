@@ -1,0 +1,8 @@
+{
+    "config": [
+        "configs/quality/vae_droid.py"
+    ],
+    "env": ["pen_in_cup", "rack"],
+    "type": ["s", "a"],
+    "seed": [3]
+}
