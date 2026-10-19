@@ -153,12 +153,14 @@ Some implementation details matter when choosing other options: `--embedding-dim
 If you use this work, please cite:
 
 ```bibtex
-@misc{sirigiri2026diversity,
-  title = {Diversity You Can Actually Measure: A Fast,
-           Model-Free Diversity Metric for Robotics Datasets},
-  author = {Sirigiri, Sreevardhan and de Lara, Nathan Samuel and
-            Agia, Christopher and Shkurti, Florian and Ramos, Fabio},
-  year = {2026}
+@misc{sirigiri2026diversityactuallymeasurefast,
+      title={Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets}, 
+      author={Sreevardhan Sirigiri and Nathan Samuel de Lara and Christopher Agia and Florian Shkurti and Fabio Ramos},
+      year={2026},
+      eprint={2603.11634},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.11634}, 
 }
 ```
 
