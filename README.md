@@ -1,6 +1,6 @@
 # FAKTUAL: Diversity for Robot Demonstration Datasets
 
-Code accompanying **Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets**.
+Code accompanying [**Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets**](https://arxiv.org/abs/2603.11634).
 
 *Sreevardhan Sirigiri, Nathan Samuel de Lara, Christopher Agia, Florian Shkurti, and Fabio Ramos*
 
